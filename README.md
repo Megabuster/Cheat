@@ -1,1 +1,1 @@
-A card game
+Cheat - A card game
